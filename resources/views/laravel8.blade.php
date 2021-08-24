@@ -1,0 +1,1 @@
+<h1><center>WELCOME TO LARAVEL 8</center></h1>
